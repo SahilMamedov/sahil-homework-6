@@ -1,0 +1,16 @@
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\bin\Debug\net5.0\task.exe
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\bin\Debug\net5.0\task.deps.json
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\bin\Debug\net5.0\task.runtimeconfig.json
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\bin\Debug\net5.0\task.runtimeconfig.dev.json
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\bin\Debug\net5.0\task.dll
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\bin\Debug\net5.0\ref\task.dll
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\bin\Debug\net5.0\task.pdb
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\obj\Debug\net5.0\task.csproj.AssemblyReference.cache
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\obj\Debug\net5.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\obj\Debug\net5.0\task.AssemblyInfoInputs.cache
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\obj\Debug\net5.0\task.AssemblyInfo.cs
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\obj\Debug\net5.0\task.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\obj\Debug\net5.0\task.dll
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\obj\Debug\net5.0\ref\task.dll
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\obj\Debug\net5.0\task.pdb
+C:\Users\Sahil\Desktop\Classroom1\classroom5\homework\task\obj\Debug\net5.0\task.genruntimeconfig.cache
