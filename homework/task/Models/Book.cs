@@ -12,11 +12,7 @@ namespace task.Modls
 
         public Book(string genre,string name, int number,double price,int count ):base(number, name, price)
         {
-            Genre = genre;
-            Name = name;
-            Number = number;
-            Price = price;
-            Count = count;
+            Genre = genre;    
         }
 
         public void Infobook()
