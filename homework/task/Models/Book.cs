@@ -10,7 +10,7 @@ namespace task.Modls
     {
         public string Genre;
 
-        public Book(string genre,string name, int number,double price,int count ):base(number, name, price)
+        public Book(string genre,string name, int number,double price,int count ):base(number, name, price,count)
         {
             Genre = genre;    
         }

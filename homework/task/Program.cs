@@ -90,9 +90,9 @@ namespace task
             {
 
                 int input = 0;
-                bool kontrol = true;
 
-                while (true)
+                bool kontrol = true;
+                while (kontrol)
                 {
                     Console.WriteLine("1: Filter books according to the Price");
                     Console.WriteLine("2: Show all books");
@@ -127,7 +127,7 @@ namespace task
 
                             }
 
-                            input = Convert.ToInt32(Console.ReadLine());
+                            
 
                             break;
 
@@ -141,26 +141,16 @@ namespace task
                             break;
 
                         case 0:
+
                             Console.WriteLine("Thank you");
                             kontrol = false;
-
+                            
 
                             break;
 
 
                     }
                 }
-
-
-
-
-
-
-
-
-
-
-
 
 
             }

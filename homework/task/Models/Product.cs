@@ -13,8 +13,12 @@ namespace task.Modls
         public double Price;
         public int Count;
 
-        public Product(int number, string name, double price)
+        public Product(int number, string name, double price, int count)
         {
+            Number = number;
+            Name = name;
+            Price = price;
+            Count = count;
         
         }
 
